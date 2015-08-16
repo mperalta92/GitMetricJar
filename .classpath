@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/RicardoMatias/Documents/procesamiento_masivo_de_datos/mdp-lab7/lib/commons-cli-1.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/RicardoMatias/Documents/Ingeniería de Software/Jgit/org.eclipse.jgit-4.0.1.201506240215-r.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RicardoMatias/Documents/Ingeniería de Software/Jgit/jsch-0.1.52.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RicardoMatias/Desktop/workspace/libs/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RicardoMatias/Desktop/workspace/libs/logback-core-0.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RicardoMatias/Desktop/workspace/libs/logback-classic-0.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
